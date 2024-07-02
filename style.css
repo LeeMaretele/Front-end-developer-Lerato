@@ -98,3 +98,12 @@ p {
   box-shadow: var(--box-shadow);
   color: white;
 }
+
+.secondary-link {
+  border-radius: 4px;
+  padding: 20px 15px;
+  text-decoration: none;
+  text-transform: capitalize;
+  color: var(--primary-color);
+  border: 1px solid var(--primary-color);
+}
